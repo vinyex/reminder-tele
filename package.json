@@ -10,6 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "13.x"
+  },
   "dependencies": {
     "dotenv": "^8.2.0",
     "node-cron": "^2.0.3",
